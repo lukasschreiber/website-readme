@@ -10,7 +10,7 @@
 	- Other international options might work too, but I cannot recommend them personally
 
 # The actual Website
-- Once you have and a Server you can start thinking about the website.
+- Once you have a domain and a server you can start thinking about the website.
 - There are two concepts: a fully custom website vs. a content management system (CSM)
 I will try to compare them for you:
 Fully custom:
